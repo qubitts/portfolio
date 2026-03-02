@@ -53,11 +53,3 @@ src/
 └── data/
     └── resume.ts            # All personal/resume data
 ```
-
-## Deployment
-
-Push to GitHub and import on [Vercel](https://vercel.com/new) — auto-detects Next.js, zero config needed.
-
-## License
-
-MIT
